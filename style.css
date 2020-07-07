@@ -1,0 +1,6 @@
+#canvas {
+width: 700px;
+height: 700px;
+background: url(fon.png);
+background-size: cover;
+}
